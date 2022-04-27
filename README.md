@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Working Stack
-[![https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
+
 
 [1]: http://www.github.com/your_contact_info
 [2]: https://www.linkedin.com/in/your_contact_info
