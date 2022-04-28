@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Justin.
+# Hi there 👋, I'm Justin.
 
-I'm a web developer with a background in finanace/business. 
+### I'm a web developer with a background in finanace/business. 
 
 - 🔭 I’m currently working on refining my full stack web-development skills.
 - 🌱 I’m currently learning ...
