@@ -4,7 +4,7 @@ I'm a web developer with a background in finanace/business.
 
 - 🔭 I’m currently working on refining my full stack web-development skills.
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: Email: justinmulroney@gmail.com or Linkedin: https://www.linkedin.com/in/justin-m-67321bb8/
+- 📫 How to reach me: Email: justinmulroney@gmail.com or https://www.linkedin.com/in/justin-m-67321bb8/
 - 😄 Pronouns: He/Him
 
 ![](https://komarev.com/ghpvc/?username=JustinMul)
