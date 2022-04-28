@@ -1,18 +1,13 @@
 ### Hi there 👋, I'm Justin.
 
+I'm a web developer with a background in finanace/business. 
 
-**JustinMul/JustinMul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a crypto currency dashboard.
+- 🔭 I’m currently working on refining my full stack web-development skills.
 - 🌱 I’m currently learning ...
-
-- 💬 Ask me about ...
 - 📫 How to reach me: Email: justinmulroney@gmail.com or Linkedin: https://www.linkedin.com/in/justin-m-67321bb8/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
+![](https://komarev.com/ghpvc/?username=JustinMul)
 ### Languages
 ![image](https://user-images.githubusercontent.com/95982839/165648699-612194af-f611-4d30-be01-d46d5085dd47.png)
 ![image](https://user-images.githubusercontent.com/95982839/165648741-2ab0ff50-95bf-42d6-805c-3db18be184c2.png)
