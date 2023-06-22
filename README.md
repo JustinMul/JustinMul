@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Justin.
 
-### I'm a web developer with a background in finance/business. 
+### I'm a Software Developer with a background in finance/business. 
 
 - 🔭 I’m currently working on refining my full stack web-development skills.
 - 📫 How to reach me: Email: justinmulroney@gmail.com or https://www.linkedin.com/in/justin-m-67321bb8/
